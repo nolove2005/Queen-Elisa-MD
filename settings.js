@@ -62,7 +62,7 @@ global.sendgoodbye = `remove`
 // Caption 
 global.cap = `SACHITH-X-SL-MD-WA-BOT`
 global.mess = {
-    success: '✅ Done!',
+    success: '⚠️ Done!',
     admin: 'you must be admin to use this cmd!',
     botAdmin: 'Bot must be admin neh!',
     owner: 'This cmd is for Elisa bot owner only',
