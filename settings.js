@@ -32,9 +32,9 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94767233346'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94767233346'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94767233346'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.owner = ['+94704274987'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['+94704274987'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['+94704274987'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'SACHITH-X-SL-MD-WA-BOT' // Your name ඔබේ නම 
 global.botnma = 'SACHITH-X-SL-MD-WA-BOT' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = 'SACHITH-X-SL-MD-WA-BOT' //ownernama,ownername
